@@ -1,0 +1,20 @@
+# Settings of gitlab stats
+
+gitlab_index = "https://gitlab.com"
+
+gitlab_api = "https://gitlab.com/api/v3/"
+
+# Your gitlab private token
+private_token = "#"
+
+# The group name
+group = "mike_scrm"
+
+# Define whether to stats merge request comments
+stats_comments = true
+
+# Define the number of top contributor
+top_contributor = 10
+
+# Define stats year
+year = 2017

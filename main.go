@@ -10,7 +10,7 @@ import (
 )
 
 func init() {
-	conf := "conf/local.toml"
+	conf := "conf/dev.toml"
 
 	config, err := toml.LoadFile(conf)
 	if err != nil {

@@ -8,6 +8,6 @@
 - 获取每个project的所有review comments,保存到文件
 
 
-## 修改TOKEN
+## 修改Token
 
-找到`lib/client.go`, 改成你自己的`private token`和gitlab api url
+找到`conf/dev.toml`,修改private_token等为希望统计的gitlab信息
