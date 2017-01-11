@@ -1,0 +1,29 @@
+{
+	"ImportPath": "github.com/wangming1993/go-gitlab-api",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/cbroglie/mustache",
+			"Rev": "6857e4b493bdb8d4b1931446eb41704aeb4c28cb"
+		},
+		{
+			"ImportPath": "github.com/google/go-querystring/query",
+			"Rev": "9235644dd9e52eeae6fa48efd539fdc351a0af53"
+		},
+		{
+			"ImportPath": "github.com/pelletier/go-buffruneio",
+			"Rev": "df1e16fde7fc330a0ca68167c23bf7ed6ac31d6d"
+		},
+		{
+			"ImportPath": "github.com/pelletier/go-toml",
+			"Comment": "v0.4.0-3-g439fbba",
+			"Rev": "439fbba1f887c286024370cb4f281ba815c4c7d7"
+		},
+		{
+			"ImportPath": "github.com/xanzy/go-gitlab",
+			"Comment": "v0.3.2-22-geeb802d",
+			"Rev": "eeb802d2a232062597f50c12390fd70b8bf3f7db"
+		}
+	]
+}
